@@ -2,4 +2,6 @@ The major problem with DataDao is that you cannot tailor it to meet the demands 
 
 A Data DAO where the dao operator creates the DAO with ZK entry restrictions and multiple contributors can contribute after proving that they are eligible to contribute using ZK-SNARK. After they contribute more than the minimum contributions ( set by the DAO operator ) they will be eligible to get a share of the pool reward after DAO is closed.
 
+Video link :- https://youtu.be/H08rpVqus4c
+
 Verifier contract deployed on Polygon zkEVM cardona https://cardona-zkevm.polygonscan.com/address/0x45afbd1e3d967369411c63c20c91003302a4c008
