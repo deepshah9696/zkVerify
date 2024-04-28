@@ -5,3 +5,5 @@ A Data DAO where the dao operator creates the DAO with ZK entry restrictions and
 Video link :- https://youtu.be/H08rpVqus4c
 
 Verifier contract deployed on Polygon zkEVM cardona https://cardona-zkevm.polygonscan.com/address/0x45afbd1e3d967369411c63c20c91003302a4c008
+
+Contract deployed polygon https://polygonscan.com/address/0xb3fee585356ba4511c74f4a403e8785d1688d079
